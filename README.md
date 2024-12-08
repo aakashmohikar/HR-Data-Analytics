@@ -1,3 +1,6 @@
+
+![Image Alt](https://github.com/aakashmohikar/HR-Data-Analytics/blob/9000138a43717df4e8761ea7205566f9d89370df/HR%20Analytics%20Dashboard%20Image.jpg)
+
 # HR Data Analysis Dashboard
 
 ## Overview
